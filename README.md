@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Marco Tezzele's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtezzele&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <!--
 **mtezzele/mtezzele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
